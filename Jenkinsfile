@@ -9,4 +9,4 @@ stage ('stage3') {
 sh 'echo "this is about enough of this &!%#& !!"'
 }
 
-]
+}
